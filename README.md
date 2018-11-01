@@ -6,9 +6,11 @@ NIM : 1541180024
 **Aplikasi Pendeteksi Jenis Kulit Wajah**
 Ide :
 Ide saya membuat sebuah aplikasi yang dapat mendeteksi bagaimana tekstur wajah seseorang. Dimana aplikasi ini akan memberikan informasi bagaimana jenis kulit dan kerutan di area wajah user dengan cara mengambil gambar secara langsung melalui kamera smartphone user. Selain informasi mengenai kulit aplikasi dapat digunakan untuk menyimpan diary perubahan wajah. Jadi seumpama seseorang sedang melakukan perawatan wajah dapat menyimpan gambar perubahan wajah user dari waktu ke waktu sesuai kebutuhan user.
+
 Batasan :
 1. Jenis kulit yang dapat dideteksi adalah kulit berjerawat, kulit kering, dan normal
 2. Kerutan yang dapat dideteksi berada dibawah mata dan sekitar mulut
+
 Fitur :
 1. Login dan Register menggunakan Gmail
 2. Mengakses kamera smartphone secara langsung
